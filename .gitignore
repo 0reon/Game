@@ -1,0 +1,30 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.tmproj
+*.userprefs
+
+# WebGL build files (optional to ignore build outputs)
+*.mem
+*.symbols.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
